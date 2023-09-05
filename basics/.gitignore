@@ -1,4 +1,3 @@
-# Suodata .in, .out ja .pyc -päätteiset tiedostot
 *.in
 *.out
 *.pyc
